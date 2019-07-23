@@ -1,0 +1,16 @@
+#article__container {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#article--1 {
+    flex-basis: 50%;
+    border: 1px solid blue;
+    text-align: center;
+}
+
+#article--2 {
+    flex-basis: 50%;
+    border: 1px solid maroon;
+    text-align: center;
+}
